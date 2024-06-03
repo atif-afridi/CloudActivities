@@ -39,7 +39,9 @@ The project adheres to the MVVM (Model-View-ViewModel) architectural pattern, en
 4. Follow the instructions on [Firebase's Flutter setup page](https://firebase.flutter.dev/docs/overview) to complete the setup.
 
 ### Project Structure
-```
+
+```dart
+
 lib/
 ├── main.dart
 ├── models/
